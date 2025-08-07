@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Basic Poll Voting\bin\Debug\Basic Poll Voting.exe.config
+C:\Users\HP\source\repos\Basic Poll Voting\bin\Debug\Basic Poll Voting.exe
+C:\Users\HP\source\repos\Basic Poll Voting\bin\Debug\Basic Poll Voting.pdb
+C:\Users\HP\source\repos\Basic Poll Voting\obj\Debug\Basic Poll Voting.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Basic Poll Voting\obj\Debug\Basic Poll Voting.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Basic Poll Voting\obj\Debug\Basic Poll Voting.exe
+C:\Users\HP\source\repos\Basic Poll Voting\obj\Debug\Basic Poll Voting.pdb
